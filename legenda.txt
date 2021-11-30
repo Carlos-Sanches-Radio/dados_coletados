@@ -4,7 +4,7 @@
 #G 0.04i
 H 24p,Times-Roman Medidas de campo na Ferrovia
 D 1p
-N 4 4 20 35 20
+N 4 4 18 35 20
 V 0.25p
 L - C #
 S
@@ -16,25 +16,25 @@ F lightyellow
 L - C 1
 S C c 0.1i blue 0.25p
 L - C Canal 1 
-L - C 3 frequências
+L - C 3 estações repetidoras
 L - C -33,3 dBm
 F lightblue 
 L - C 2
 S C c 0.1i orange 0.25p
 L - C Canal 2
-L - C 5 frequências
+L - C 5 estações repetidoras
 L - C -31,4 dBm
 F lightred 
 L - C 3
 S C c 0.1i yellow 0.25p
 L - C Canal 3
-L - C 1 frequência
+L - C 1 estações repetidoras
 L - C -41,1 dBm
 F lightgreen 
 L - C 4
 S C c 0.1i purple 0.25p
 L - C Canal 4
-L - C 2 frequências
+L - C 2 estações repetidoras
 L - C -38,1 dBm
 D 1p -
 V 1p
@@ -44,7 +44,6 @@ L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
 T O resultado mostra que há muitas frequências no canal 2 e apenas uma
 T frequência no canal 3, assim é necessário uma melhor distribuição das
-T frequências ao longo da ferrovia, de modo a evitar a sobreposição de
-T ou proximidade física entre frequências iguais.
-
-
+T frequências ao longo da ferrovia, de modo a evitar a sobreposição ou 
+T proximidade física entre frequências iguais, o que causa redução na 
+T taxa de transmissão devido a interferência co-canal.
