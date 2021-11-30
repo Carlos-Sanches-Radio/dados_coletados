@@ -4,7 +4,7 @@
 #G 0.04i
 H 24p,Times-Roman Medidas de campo na Ferrovia
 D 1p
-N 4 6 22 15 19 18 8 8
+N 4 6 22 15 19
 V 0.25p
 L - C #
 S
@@ -36,41 +36,6 @@ L - R Toronto
 L - R Canada
 L - R 2,795,060
 F lightyellow 
-L - C 5
-S C c 0.1i blue 0.25p
-L - R Chicago
-L - R USA
-L - R 2,714,856
-L - C 6
-S C c 0.1i cyan 0.25p
-L - R Houston
-L - R USA
-L - R 2,714,856
-L - R Subtropical
-F lightred 
-L - C 7
-S C c 0.1i magenta 0.25p
-L - R Havana
-L - R Cuba
-L - R 2,106,146
-F lightblue 
-L - C 8
-S C c 0.1i white 0.25p
-L - R Montreal
-L - R Canada
-L - R 1,649,519
-F lightgreen 
-L - C 9
-S C c 0.1i red 0.25p
-L - R Ecatepec
-L - R Mexico
-L - R 1,658,806
-F lightyellow 
-L - C 10
-S C c 0.1i cyan 0.25p
-L - R Philadelphia
-L - R USA
-L - R 1,553,165
 D 1p -
 V 1p
 F - 
