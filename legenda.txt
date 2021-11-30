@@ -33,7 +33,7 @@ F lightblue
 L - C 4
 S C c 0.1i green 0.25p
 L - R Canal 4
-L - 2 estações
+L - R 2 estações
 L - R -38,1 dBm
 D 1p -
 V 1p
