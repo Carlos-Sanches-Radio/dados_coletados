@@ -4,7 +4,7 @@
 #G 0.04i
 H 24p,Times-Roman Medidas de campo na Ferrovia
 D 1p
-N 4 10 35 35
+N 4 4 20 35 20
 V 0.25p
 L - C #
 S
