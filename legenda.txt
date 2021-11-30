@@ -39,7 +39,7 @@ D 1p -
 V 1p
 F - 
 N 1
-L 9p,Times-Italic R Dados coletados com equipamento LMR Master S412E
+L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
 T Many of these North American cities have hosted the Football World Cup
 T (WC) and some have hosted the Olympics (OL).  The rest is just some
