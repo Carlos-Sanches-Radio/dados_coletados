@@ -24,13 +24,13 @@ S C c 0.1i orange 0.25p
 L - C Canal 2
 L - C 5 frequências
 L - C -31,4 dBm
-F lightyellow 
+F lightred 
 L - C 3
 S C c 0.1i yellow 0.25p
 L - C Canal 3
 L - C 1 frequência
 L - C -41,1 dBm
-F lightblue 
+F lightgreen 
 L - C 4
 S C c 0.1i purple 0.25p
 L - C Canal 4
