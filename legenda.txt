@@ -15,35 +15,35 @@ D 1p +
 F lightyellow 
 L - C 1
 S C c 0.1i blue 0.25p
-L - R Canal 1 
-L - R 3 estações
-L - R -33,3 dBm
+L - C Canal 1 
+L - C 3 frequências
+L - C -33,3 dBm
 F lightyellow 
 L - C 2
 S C c 0.1i orange 0.25p
-L - R Canal 2
-L - R 5 estações
-L - R -31,4 dBM
+L - C Canal 2
+L - C 5 frequências
+L - C -31,4 dBm
 L - C 3
 S C c 0.1i yellow 0.25p
-L - R Canal 3
-L - R 1 estação
-L - R -41,1 dBm
+L - C Canal 3
+L - C 1 frequência
+L - C -41,1 dBm
 F lightblue 
 L - C 4
-S C c 0.1i green 0.25p
-L - R Canal 4
-L - R 2 estações
-L - R -38,1 dBm
+S C c 0.1i purple 0.25p
+L - C Canal 4
+L - C 2 frequências
+L - C -38,1 dBm
 D 1p -
 V 1p
 F - 
 N 1
 L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
-T Many of these North American cities have hosted the Football World Cup
-T (WC) and some have hosted the Olympics (OL).  The rest is just some
-T basic information about each city, such as climate and population.
-T Of course, this is all an excuse to demonstrate variable-width tables
-T and coloring, as well as a custom number-symbol on the map.
+T O resultado mostra que há muitas frequências no canal 2 e apenas uma
+T frequência no canal 3, assim é necessário uma melhor distribuição das
+T frequências ao longo da ferrovia, de modo a evitar a sobreposição de
+T ou proximidade física entre frequências iguais.
+
 
