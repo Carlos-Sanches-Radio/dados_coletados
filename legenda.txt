@@ -18,12 +18,13 @@ S C c 0.1i blue 0.25p
 L - C Canal 1 
 L - C 3 frequências
 L - C -33,3 dBm
-F lightblue 
+F lightblue
 L - C 2
 S C c 0.1i orange 0.25p
 L - C Canal 2
 L - C 5 frequências
 L - C -31,4 dBm
+F lightyellow 
 L - C 3
 S C c 0.1i yellow 0.25p
 L - C Canal 3
