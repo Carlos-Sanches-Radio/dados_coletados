@@ -28,7 +28,7 @@ F lightred
 L - C 3
 S C c 0.1i yellow 0.25p
 L - C Canal 3
-L - C 1 estações repetidoras
+L - C 1 estação repetidora
 L - C -41,1 dBm
 F lightgreen 
 L - C 4
