@@ -4,43 +4,43 @@
 #G 0.04i
 H 24p,Times-Roman Medidas de campo na Ferrovia
 D 1p
-N 4 6 22 15 19
+N 4 15 25 15
 V 0.25p
 L - C #
 S
-L - C City Name
-L - C Country
-L - C Population
+L - C Frequência
+L - C Quantidade de estações
+L - C Nível máximo
 D 1p +
-F lightgreen 
+F lightyellow 
 L - C 1
-S C c 0.1i red 0.25p
-L - R Mexico City
-L - R Mexico
-L - R 8,851,080
+S C c 0.1i blue 0.25p
+L - R Canal 1 
+L - R 3 estações repetidoras
+L - R -33,3 dBm
 F lightyellow 
 L - C 2
 S C c 0.1i orange 0.25p
-L - R New York City
-L - R USA
-L - R 8,405,837
+L - R Canal 2
+L - R 5 estações repetidoras
+L - R -31,4 dBM
 L - C 3
 S C c 0.1i yellow 0.25p
-L - R Los Angeles
-L - R USA
-L - R 3,904,657
+L - R Canal 3
+L - R 1 estação repetidoras
+L - R -41,1 dBm
 F lightblue 
 L - C 4
 S C c 0.1i green 0.25p
-L - R Toronto
-L - R Canada
-L - R 2,795,060
+L - R Canal 4
+L - 2 estações repetidoras
+L - R -38,1 dBm
 F lightyellow 
 D 1p -
 V 1p
 F - 
 N 1
-L 9p,Times-Italic R Information from Wikipedia
+L 9p,Times-Italic R Dados coletados com equipamento LMR Master S412E
 G 0.05i
 T Many of these North American cities have hosted the Football World Cup
 T (WC) and some have hosted the Olympics (OL).  The rest is just some
