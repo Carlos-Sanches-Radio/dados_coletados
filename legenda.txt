@@ -3,7 +3,7 @@
 #
 
 
-H 24p,Times-Roman Medidas de campo na Ferrovia
+H 18p,Times-Roman Medidas de campo dos quatro canais na Ferrovia
 D 1p
 N 4 4 18 35 20
 V 0.25p
