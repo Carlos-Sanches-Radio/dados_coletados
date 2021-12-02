@@ -42,7 +42,7 @@ F -
 N 1
 L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
-S C c 0.1i green 0.25p
+S L l 0.1i green 0.25p
 L R Limiar de Recepção -104 dBm
 T O resultado mostra que há muitas frequências no canal 2 e apenas uma
 T frequência no canal 3, assim é necessário uma melhor distribuição das
