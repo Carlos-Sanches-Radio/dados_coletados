@@ -43,8 +43,8 @@ N 1
 L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
 N1
-S L v 0.5i green 1p
-L L testando -104 dBm
+S L v 0.5i green 0.25p
+L testando
 G 0.05i
 N1
 T O resultado mostra que há muitas frequências no canal 2 e apenas uma
