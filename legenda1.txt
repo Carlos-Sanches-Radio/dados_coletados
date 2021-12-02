@@ -42,8 +42,8 @@ F -
 N 1
 L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
-S L w 0.1i green 0.25p
-L L Limiar de Recepção -104 dBm
+S L v 0.1i green 0.25p
+L R Limiar -104 dBm
 T O resultado mostra que há muitas frequências no canal 2 e apenas uma
 T frequência no canal 3, assim é necessário uma melhor distribuição das
 T frequências ao longo da ferrovia, de modo a evitar a sobreposição ou 
