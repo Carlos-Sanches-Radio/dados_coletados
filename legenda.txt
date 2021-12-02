@@ -44,7 +44,7 @@ L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
 N 6 55
 S C v 0.5i green 0.25p
-L R Limiar de RX -104 dBm
+L - L Limiar de RX -104 dBm
 N 1
 T O resultado mostra que há muitas frequências no canal 2 e apenas uma
 T frequência no canal 3, assim é necessário uma melhor distribuição das
