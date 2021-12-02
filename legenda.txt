@@ -1,7 +1,8 @@
-# Legend commands for cookbook example 41
-# G is vertical gap, V is vertical line, N sets # of columns, D draws horizontal line,
+# Legenda para o plot do GMT
+# https://docs.generic-mapping-tools.org/dev/legend.html
 #
-#G 0.04i
+
+
 H 24p,Times-Roman Medidas de campo na Ferrovia
 D 1p
 N 4 4 18 35 20
@@ -44,11 +45,11 @@ L 9p,Times-Italic R Dados coletados com instrumento LMR Master S412E
 G 0.05i
 N 6 55
 S C v 0.5i green 0.25p
-L 9p,Times L Limiar de Recepção -104 dBm
+L - L Limiar de RX -104 dBm
 G 0.05i
 N 1
 T O resultado mostra que há muitas frequências no canal 2 e apenas uma
 T frequência no canal 3, assim é necessário uma melhor distribuição das
 T frequências ao longo da ferrovia, de modo a evitar a sobreposição ou 
-T proximidade física entre frequências iguais, o que causa redução na 
+T proximidade física entre frequências iguais, o que causa redução na
 T taxa de transmissão devido a interferência co-canal.
